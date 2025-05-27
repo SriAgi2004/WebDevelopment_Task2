@@ -6,5 +6,5 @@ A simple and interactive To-Do List web application built using HTML, CSS, and V
 - Add timestamp: shows date and time for each task
 - Shows Completed and Pending task counts
 - Clean and responsive layout with a background image
-- Instantly updates UI — no page reloads 
+- Instantly updates UI — no page reloads required 
 - Mobile-friendly interface
